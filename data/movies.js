@@ -1,0 +1,190 @@
+export const movies = [
+    {
+      "adult": false,
+      "backdrop_path": "/ovM06PdF3M8wvKb06i4sjW3xoww.jpg",
+      "id": 76600,
+      "title": "Avatar: The Way of Water",
+      "original_language": "en",
+      "original_title": "Avatar: The Way of Water",
+      "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+      "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "popularity": 10255.685,
+      "release_date": "2022-12-14",
+      "video": false,
+      "vote_average": 7.739,
+      "vote_count": 6247
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cHywnrFfuDhDSST7lppYOAADmnt.jpg",
+      "id": 933419,
+      "title": "Champions",
+      "original_language": "en",
+      "original_title": "Champions",
+      "overview": "A stubborn and hotheaded minor league basketball coach is forced to train a Special Olympics team when he is sentenced to community service.",
+      "poster_path": "/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        35
+      ],
+      "popularity": 74.511,
+      "release_date": "2023-03-09",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 39
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/93c4Ujcbocue8PoFoV2HTzcedCF.jpg",
+      "id": 921355,
+      "title": "Assassin",
+      "original_language": "en",
+      "original_title": "Assassin",
+      "overview": "A private military operation invents futuristic microchip tech that enables the mind of an agent to inhabit the body of another person to carry out covert, deadly missions. But when an agent is killed during a secret mission, his wife takes his place in an attempt to bring the man responsible to justice.",
+      "poster_path": "/nckPbPhQUB6HB9dGba8hWCN4xqM.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        878
+      ],
+      "popularity": 57.718,
+      "release_date": "2023-03-31",
+      "video": false,
+      "vote_average": 4.6,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6ZZjNFjTlO9F25467CruIibwuxl.jpg",
+      "id": 739405,
+      "title": "Operation Fortune: Ruse de Guerre",
+      "original_language": "en",
+      "original_title": "Operation Fortune: Ruse de Guerre",
+      "overview": "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.",
+      "poster_path": "/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        53,
+        35
+      ],
+      "popularity": 178.736,
+      "release_date": "2023-01-04",
+      "video": false,
+      "vote_average": 6.712,
+      "vote_count": 283
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iw0Na1UBHgA5BgifwmQ8vKhlWgA.jpg",
+      "id": 502356,
+      "title": "The Super Mario Bros. Movie",
+      "original_language": "en",
+      "original_title": "The Super Mario Bros. Movie",
+      "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+      "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        14
+      ],
+      "popularity": 869.729,
+      "release_date": "2023-04-05",
+      "video": false,
+      "vote_average": 8.964,
+      "vote_count": 14
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+      "id": 19995,
+      "title": "Avatar",
+      "original_language": "en",
+      "original_title": "Avatar",
+      "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+      "poster_path": "/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        12,
+        14,
+        878
+      ],
+      "popularity": 417.976,
+      "release_date": "2009-12-15",
+      "video": false,
+      "vote_average": 7.569,
+      "vote_count": 28750
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/a2tys4sD7xzVaogPntGsT1ypVoT.jpg",
+      "id": 804150,
+      "title": "Cocaine Bear",
+      "original_language": "en",
+      "original_title": "Cocaine Bear",
+      "overview": "Inspired by a true story, an oddball group of cops, criminals, tourists and teens converge in a Georgia forest where a 500-pound black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
+      "poster_path": "/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        53,
+        35,
+        80
+      ],
+      "popularity": 2768.807,
+      "release_date": "2023-02-22",
+      "video": false,
+      "vote_average": 6.517,
+      "vote_count": 564
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/35slSk2fwFGDK8pZnPprOFKWxhV.jpg",
+      "id": 594767,
+      "title": "Shazam! Fury of the Gods",
+      "original_language": "en",
+      "original_title": "Shazam! Fury of the Gods",
+      "overview": "Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+      "poster_path": "/3GrRgt6CiLIUXUtoktcv1g2iwT5.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        35,
+        14
+      ],
+      "popularity": 724.697,
+      "release_date": "2023-03-15",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 298
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9Rq14Eyrf7Tu1xk0Pl7VcNbNh1n.jpg",
+      "id": 646389,
+      "title": "Plane",
+      "original_language": "en",
+      "original_title": "Plane",
+      "overview": "After a heroic job of successfully landing his storm-damaged aircraft in a war zone, a fearless pilot finds himself between the agendas of multiple militias planning to take the plane and its passengers hostage.",
+      "poster_path": "/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "popularity": 893.896,
+      "release_date": "2023-01-12",
+      "video": false,
+      "vote_average": 6.851,
+      "vote_count": 992
+    }
+  ]
